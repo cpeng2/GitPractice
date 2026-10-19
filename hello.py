@@ -1,2 +1,2 @@
 print("hello, Github")
-Print("LING78100 practice")
+print("LING78100 practice, pull request")
