@@ -1,3 +1,5 @@
+print("hello, Github")
+print("LING78100 practice, pull request")
 print("Hello, GitHub!")
 print("Hello, GitHub!")
 print("This is a sample Python script from Chun-Yi Peng.")
