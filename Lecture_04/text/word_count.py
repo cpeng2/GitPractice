@@ -6,5 +6,5 @@ with open('romeojuliet.txt', 'r') as file:
         words = line.split()
         for word in words:
             wc[word.lower()] += 1
-    print(wc.most_common(10))
+    print(wc.most_common(5))
         
